@@ -5135,6 +5135,12 @@ CONFIG_GATOR=y
 # CONFIG_MPSD_DEBUG is not set
 
 #
+# KernelSU
+#
+CONFIG_KSU=y
+# CONFIG_KSU_DEBUG is not set
+
+#
 # Firmware Drivers
 #
 CONFIG_ARM_PSCI_FW=y
